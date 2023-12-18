@@ -48,7 +48,7 @@ The smart contract is deployed at the Ethereum address: `0x5FbDB2315678afecb367f
 - `src/HomePage.js`: React component for the frontend.
 
 ### Credits
-This project is developed by [Niranjan D N]
+This project is developed by Niranjan D N
 
 ### License
-This project is licensed under [UNLICENSED]. See the `LICENSE` file for details.
+This project is licensed under MIT license. 
